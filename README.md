@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Human!
+
+I like singing, dancing, rap and basketball
